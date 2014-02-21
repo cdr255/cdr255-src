@@ -1,0 +1,583 @@
+---
+title: NA02 - Survive the Rebellion
+in_menu: false
+
+---
+## NA02. Survive the Rebellion ##
+
+### Prelude ###
+
+From NA01, The party had just taken a huge leap of faith off of the
+high tower of the dungeon into a seemingly empty frozen lake. They
+survived, having been slowed by some device from the (obviously
+invisible then) boat of the Rebellion. However, after the party landed
+safely at the bottom of their slowed fall, they were each knocked out
+by the unseen Rebels... As they are not the elf they expected to jump.
+
+#### Meta Info ####
+
+This is an adventure module for a Heavily Modified version of 3.5
+edition Dungeons and Dragons. It is intended for 4-5 5th Level
+Characters, and was specifically written as part of an ongoing
+campaign entitled, "End of the Empire."
+
+This Adventure Module is free to read, use, distribute, and modify. It
+is licensed (as much as it can be) under the [CC-BY-SA 3.0][cc]
+license. Anything that must be licensed under the [OGL][ogl],
+is... but I personally do not like what that license requires of
+authors, and therefore would prefer a different license.
+
+#### Introduction ####
+
+<div class="small box"> <p>"You are awakened with an ice cold
+waterfall poured over Your heads. Unfortunately, You cannot see
+anything, find Your arms and legs roughly tied to wooded chairs, and
+once the water finishes draining from around Your heads, You can feel
+the warmth of Your breath bouncing back into Your faces... Some kind
+of bag or cloth is around Your faces."</p>
+
+<p>" 'Now that we are all awake and well rested, perhaps You can help
+me out.' The voice which speaks seems to be calm, cool, collected, and
+a little been contentious towards You... Though at least, it is not
+openly hostile. 'See, my men and I are a bit confused. We were
+supposed to have Young Xian jump from the tower onto our little
+vessel, but instead of that most promising Young Elf, We find Four
+Bungling Criminals and their pet Goblin. Don't worry, he is resting
+quite safely... for now. We'll see how long that lasts, depending on
+how You all behave.'</p>
+
+<p>" 'Anyway, let me get to the point. Who are You, and Where is
+Xian?' At this, he falls silent, seemingly awaiting a response, of
+some sort. What do You do?"</p>
+
+</div>
+
+The party is being questioned in hoods, tied to chairs. They must now
+negotiate their survival with their Captors. This entire encounter is
+based on the following conditions:
+
+The Rebels are worried about Xian. They also are worried about these
+Strangers. There are, therefore, two conditions to be met: Trust in
+the Party (paramount) and Emotional Health (paramount).
+
+__Condition Points__ are a simple system for determining the outcome
+of a conflict which  does not include combat. Simply put, if an
+attempt goes well, they gain a condition point or two. If it goes
+poorly, they lose one or two. Each listing has a target: Once the
+target is met, _if the party decides to stop with their tomfoolery at
+that point,_ then that target path is played out. If it is below the
+target (or conditions for ultimate failure are met) then the target
+path is not played out, instead, a failure path is played out for that
+condition.
+
+
+__Trust in the Party__: -10 CP. (Target: 0 or higher.)
+
+Things which may help:
+
+- Treating Xian with respect.
+
+- Showing they were wrongly imprisoned.
+
+- Contempt for the government.
+
+- Distrust of the Rebels, but openmindedness.
+
+Things which may hurt:
+
+- Failed Bluffs.
+
+- Exact Opposite of the above.
+
+- Refusal to talk.
+
+__Emotional Health__: 6 CP. (Target: 0 or higher.)
+
+This is a HP-like Condition: it has no success, only failure. The
+following things hurt:
+
+- Disrespecting Xian.
+
+- Being rebellious or stupid.
+
+- Trying to escape.
+
+
+_NOTE: This is meant to be a fairly easy challenge, as it is only the
+second module. Be fair, perhaps overly so, with the point allowances._
+
+#### Failure ####
+
+If the party fails to convince the rebels of their safety, Jareth is
+cut loose in the waters and left to drown (as he is an Creature of
+Air, this fails terribly). The rest of the party are then knocked out,
+robbed, and left for dead on the shores of Dort'ar. The Rebellion is
+now also their enemy.
+
+They are directed to the next adventure by an ad in the town,
+considering they are now hurt and looking for a friend of any kind,
+since they are weak and alone in this world.
+
+
+#### Success ####
+
+The Bags are removed from their heads, and Jareth is brought into the
+room. They are then untied, and then told the following:
+
+<div class="small box"> <p>" 'Well, I suppose we trust You- At least as
+far as we could throw You, for now. But before we take You anywhere
+near our base of operations, we will definitely need to see how far we
+can throw You.' At this, each of You are picked up by three masked
+men, and are taken above deck, to be thrown overboard."</p>
+
+<p>" 'Did You know that this lake never freezes? See, even though it
+is *WELL* below freezing down there right now, there is so much salt
+in the lake that it just doesn't coalesce. It really is a miracle of
+nature, when You think about it...' He laughs. Then he motions for the
+men to stop. 'Now, provided that You don't want to experience this
+wonder first hand, we do have a job that needs doing. See, Xian was
+supposed to do it, and he's now indisposed, due to unforseen
+circumstances. Are You interested?' "</p>
+
+If they refuse, they are thrown overboard, and (if they survive) are
+pushed over to the failure condition above. If they accept:
+
+<p>"'Alright, good. See, there is a high ranking member of the
+Resistance who got herself caught by the empire. She's been imprisoned
+in a huge dungeon on an island out here. She's been in there for 6
+months, and must be near death by now. I want You to find her, and
+bring her back to the resistance, so she may help us again.' "</p>
+</div>
+
+They sail for another 3 hours, and eventually an island is in
+sight. They are given weapons, armor, and provisions by the
+Resistance, and then a rowboat to make it to shore. Should they
+attempt to row away, they are killed with fire. The resistance then
+sails away, saying they will return in a week. 
+
+
+
+### Adventure ###
+
+#### Room A: The Entrance ####
+There is a huge fortification with a large painting of the symbol of the empire
+across the doors. They open out, and require at least two people to
+move at all.
+
+Upon entering the dungeon, read the following:
+
+<div class="small box"> <p>"Upon entering the dungeon, You are greeted
+with a very odd sight: there seems to be no one here. There are 17
+empty cells, in two rows: one along the far wall, with 9 cells, and
+one split by the doors, with 8. Looking in the cells, there is no one
+there: Each cell door is open, and there are no lights in the entire
+room. What do You do?"</p>
+</div>
+
+This room is a bluff. There are three secret doors: each leading
+passed the far wall's row. Roll 1d20 to find which of the cells they
+are investigating, and the outcome thereof.
+
+|--------------------------------------------------------|
+|Roll (1d20)| Result (what happens)                      |
+|-----------|--------------------------------------------|
+| 01        | Fire Trap (1d6 Damage)                     |
+| 02        | Find a Door (Room B) behind the bed        | 
+| 03        | Poisonous Gas Trap (1d6 Damage/3 turns)    |
+| 04        | Blinding Trap (Blinded for 6 minutes)      |
+| 05        | Sleep Trap (Falls Asleep til awakened)     |
+| 06        | Spike Pit (Falling Damage, 1d8)            |
+| 07        | Find a Door (Room K) beneath the chamberpot|
+| 08        | Huge Cloud of Smoke, 1d8 rounds            |
+| 09        | Concussive Round Spell (Tgt sees explosion)|
+| 10        | Portal to Outside (party doesn't know)     |
+| 11        | Nothing Happens (Triple Bluff)             |
+| 12        | Puppet from the cieling, with ghost sound  |
+| 13        | Lighting Trap (1d6 Damage)                 |
+| 14        | Color Spray                                |
+| 15        | Find a Door (Room M, Need 2 gems to unlock)|
+| 16        | Trap Door:  a single worm, with word "Ever"|
+| 17        | Hold Person                                |
+| 18        | Dynamite: Hear sound, then explosion, (2d6)|
+| 19        | Reroll                                     |
+| 20        | Reroll                                     |
+|-----------|--------------------------------------------|
+
+
+#### Room B: The Lying Guards ####
+
+<div class="small box"> <p>"Crawling through the door, You come to a
+large room with two unmoving statue-like skeletons. There is a sign
+above them, saying the following: 'There is certain death for those
+who choose the wrong path here. One of these guards always tells the
+truth, the other always lies. They will only respond to one question,
+which must be asked while touching the helmet of the guard in
+question. Good luck.'"</p>
+</div>
+
+The correct question is, "Which door would the other guard say is the
+right one?" If they ask that question (or some similar variation
+thereof) then they are pointed to __Room C__, which is the wrong door,
+and should be ignored. If they fail to ask the correct question, they
+head down the path to __Room C__ regardless. If they ask the right
+question but still go down the wrong path, they head to __Room C__. 
+Otherwise, they head to __Room G__.
+
+#### Room C: Arrow Trap ####
+Have them all roll spot checks. DC 17. If any succeed, tell them this:
+
+<div class="small box"> <p>"As You head passed the door, You notice
+that there are very square tiles on the floor of this room. Each has a
+different symbol on them. There are also small stones in the wall,
+with glyphs around them.... And Slits in the wall, with small points
+of metal at the bottom. What do You do?"</p>
+</div>
+
+Hand them the chart which is the pictoral representation of the
+floor. They must find the right way across, using the Zoso Symbols as
+a guide.
+
+
+#### Room D: Conjoured Guardsmen #1 ####
+
+<div class="small box"> <p>"You open the door at the far end of the
+room. Roll Spot Checks. (DC 17)"</p>
+
+<p>Those Who Succeed: "For a split second, You notice the chamber to
+be empty. However, with a small flash of light and a puff of smoke,
+You find some assailants suddenly appearing in the middle of the
+room."</p>
+
+<p>Else: "The room, You can see, is fairly large. There are not too
+many torches on the walls, but the ones that are there are lit and
+bright. On the far wall, You see a door with some writing on it. The
+center of the room, however, harbors what appear to be guardians in
+the midst of some billowing smoke."</p>
+
+<p>"Three cloud-like masses are at the front, with the surrounding
+smoke wafting up and through what appears to be a swirling vortex of a
+body. They seem angry, and move towards You."</p>
+
+
+<p>"Aside them, stand two small goblins: Who look a bit like you
+(point to Air Goblin Character). They are armed with bows and dressed
+in Shirts made of small chain links, and are bookending the room, one
+on each side."</p>
+
+<p>"What do You do?"</p> </div>
+
+##### Stat Cards #####
+
+|--------------------------------------------------------------------------|
+|Elemental  (AC 17, HP 61, Melee +6 1d8+2) | (Elemental, Air) CR   3       |
+|------------------------------------------|-------------------------------|
+|*Init* +9 (+5 dex, +4 Improved Init)      |*AC:* 13 *FF:* 13 *T:* 10      |
+|*HD:* 4, *HP:* 26              |*Str* 12(+1) *Dex* 21(+5) *Con* 14(+2)    |
+|*Speed:* 100ft Fly             |*Int* 4(-3) *Wis* 11(0)  *Cha* 11(0)     |
+|*Attack 1:* Slam +8 1d6+1      | *Feats:* Improved Init, Weapon Finesse, Dodge, Flyby Attack |
+|*Attack 2:* None               |*Intim* +1, *Jump* +4, *Ride* +3, *Swim* +4|
+|*Fort:* +3 *Ref:* +9 *Will:* +1|*Climb* +4, *Craft()* +3, *Hdl Animal* +1 |
+|*Drow Traits* No Poi, Slp, Par, Stun, Crit, or Flank |*BAB:* +4 Grp +7        |
+|*Spell Resistance* 15, *Darkvision* |*Skill Point Bonus:* +1/hd           |
+|*Speed:* 30ft *Space/Reach:* 5 ft. (1 sq) |*Skill Points:* 16
+|--------------------------------------------------------------------------|
+
+
+|--------------------------------------------------------------------------|
+|Goblin Warrior (AC 15, HP 31, Melee +6 1d8+2)  | (Human, Fighter L2) CR 2|
+|------------------------------------------|-------------------------------|
+|*Init* +2 (+2 dex)                        |*AC:* 15 *FF:* 13 *T:* 12      |
+|*HD:* 5, *HP:* 31              |*Str* 15(+2) *Dex* 15(+2) *Con* 16(+3)    |
+|*Speed:* 30ft                  |*Int* 12(+1) *Wis* 6(-2)  *Cha* 8(-1)     |
+|*Attack 1:* Longsword +6 1d8+2 (19-20/x2) | *Feats:* Toughness x 2        |
+|*Attack 2:* Whip 1d4+2        |*Intim* +1, *Jump* +4, *Ride* +4, *Swim* +4|
+|*Fort:* +9 *Ref:* +3 *Will:* -1|*Climb* +4, *Craft()* +3, *Hdl Animal* +10|
+|*Fighter Feat:* Toughness *Human Feat:* Toughness|*BAB:* +4 Grp +6        |
+|*Advancement:* By Character Class|*Skill Point Bonus:* +1/hd              |
+|*Speed:* 30ft *Space/Reach:* 5 ft. (1 sq) |*Skill Points:* 24             |
+|--------------------------------------------------------------------------|
+
+__Number in Encounter: 3 Elementals, 2 Goblins.__
+
+##### Fluff and Details #####
+
+This is the result of an unfindable magical trap placed on the
+entrance to the room. Simply put, the trap was _inside_ the next room,
+and therefore unfindable. The spells cast were: Summon Monster
+VI. Should they have somehow located and negated that trap, the
+goblins are still here, and the Elementals are not. As they were
+summoned by a spell, dismissal will work on them. As will running out
+the clock, since they only last here for 12 rounds.
+
+
+##### XP Table #####
+
+
+|-------------------------------------------------------------------------------|
+|Level of Character|Goblin (CR2)   |Elemental (CR 3)|Total XP Earned|XP to Award|
+|------------------|---------------|----------------|---------------|-----------|
+|Level 4           |600            |800             |3250           |650        |
+|Level 5           |500            |750             |3600           |725        |
+|Level 9           |225            |338             |1464           |292.8      |
+|------------------|---------------|----------------|---------------|-----------|
+
+
+#### Post Combat Oppurtunities ####
+
+If the party captures a goblin, it will eventually reveal the
+following. Anything not listed, it does not know.
+
+- "We just work for Lelana. We don't know anything."
+
+- "We Guard the Red Gem. Keep it away from Thean."
+
+- "We been here for 7 months. Holding down the fort."
+
+- "Please don't kill me. I want to live."
+
+If a non-evil member of the party kills the goblin, take
+note. Alignment change has now begun. Otherwise, they may do with him
+as they please.
+
+If at any time, the party heads to the left side of the room, be sure
+to have them roll spot checks. The secret door is there. 
+
+##### The Door #####
+<div class="small box"><p>"As You approach the door, the text rapidly
+becomes more visible. It reads, 'I am not a rebel. Go Away.' The knob
+is glowing bright blue. What do You do?"</p></div>
+
+- __Detect Magic__: Strong Evocation Magic on the handle.
+
+- __Find Traps / Search as Rogue__: DC 23, Shocking Grasp. 5d6
+  electricity damage.
+  
+  The door, once dealt with in one way or another, leads to __Room
+  F__.
+  
+
+#### Room E ####
+<div class="small box"><p>"You crawl in through the hole in the wall,
+and come to a room bathed in a pale red light. In the center of the
+room, on a non-descript pedestal, is a red gem. It seems to be the
+source of light in this room. What do You do?"</p>
+</div>
+
+This is the red gem the goblins were guarding, and the first of two
+meant to open the door at the front of the dungeon. There are no traps
+here, but play it up at every juncture, as if there were. Double
+Bluff.
+
+#### Room F ####
+<div class="small box"><p>"You open the door, and see a large, black
+obelisk in the center of the room. On the top, You see a small red
+gem. However, as You look at the floor, You notice a 30 foot drop, all
+around the room. There are spikes at the bottom of this pit, and only
+a single rope tied around the obelisk and hitched to a bolt in the
+wall, to Your right. What do You do?"</p></div>
+
+
+__Tight Rope__ Balance DC 20, Catch Yourself Dex 15. 
+
+
+The spikes are there, but if You fall You never reach them. They are
+beneath a perfectly clear magical wall, and when a character falls, he
+stops just above them.
+
+This Gem is _NOT_ the one for the lock, though the PCs cannot know
+that. The real gem is in __Room F__.
+
+
+
+#### Random Monster Tables ####
+
+
+|--------------------------------------------------------------------------|
+|Guardsman (AC 15, HP 51, Melee +6 1d8+2)  | (Human, Fighter L2) CR 2      |
+|------------------------------------------|-------------------------------|
+|*Init* +2 (+2 dex)                        |*AC:* 15 *FF:* 13 *T:* 12      |
+|*HD:* 5, *HP:* 51              |*Str* 15(+2) *Dex* 15(+2) *Con* 16(+3)    |
+|*Speed:* 30ft                  |*Int* 12(+1) *Wis* 6(-2)  *Cha* 8(-1)     |
+|*Attack 1:* Longsword +6 1d8+2 (19-20/x2) | *Feats:* Toughness x 2        |
+|*Attack 2:* Short bow +6 1d4+0|*Intim* +1, *Jump* +4, *Ride* +4, *Swim* +4|
+|*Fort:* +9 *Ref:* +3 *Will:* -1|*Climb* +4, *Craft()* +3, *Hdl Animal* +1 |
+|*Fighter Feat:* Toughness *Human Feat:* Toughness|*BAB:* +4 Grp +6        |
+|*Advancement:* By Character Class|*Skill Point Bonus:* +1/hd              |
+|*Speed:* 30ft *Space/Reach:* 5 ft. (1 sq) |*Skill Points:* 24             |
+|--------------------------------------------------------------------------|
+
+
+|--------------------------------------------------------------------|
+|Level of Character|Guardsman (CR2)|Total XP Earned|XP to Award      |
+|------------------|---------------|---------------|-----------------|
+|Level 3           |600            |1800 \[4(2400)\] |450 \[4(600)\] |
+|Level 4           |600            |1800 \[4(2400)\] |450 \[4(600)\] |
+|Level 7           |350            |1050 \[4(1400)\] |263 \[4(350)\] |
+|------------------|---------------|---------------|-----------------|
+
+|--------------------------------------------------------------------------|
+|Venomous Rat (AC 16, HP 22, Melee +4 1d4+4 )| (Dire Dire Rat) CR 3        |
+|------------------------------------------|-------------------------------|
+|*Init* +3 (+3 dex)                        |*AC:* 16 *FF:* 13 *T:* 13      |
+|*HD:* 3, *HP:* 22              |*Str* 18(+4) *Dex* 17(+3) *Con* 16(+3)    |
+|*Speed:* 40ft  *Climb:* 20ft   |*Int* 1(-5) *Wis* 12(+1)  *Cha* 4(-3)     |
+|*Attack 1:* Bite +4 1d4+4      | *Feats:* Alertness, Weapon Finesse(B)    |
+|*Attack 2:* Scratch +2 1d6     |*Hide* +4, *Listen* +2, *Move Silent* +4, |
+|*Fort:* +6 *Ref:* +6 *Will:* +4|*Climb* +13, *Spot* +2, *Swim* +5         |
+|*Disease:* Fort DC 14          |*BAB:* +4                                 |
+|(incubate 1d3 days, dmg 1d3 Dex and Con)|*Low Light Vision* & *Scent*     |
+|*Speed:* 40ft *Space/Reach:* 5 ft. (1 sq) |*Skill Points:* 6              |
+|--------------------------------------------------------------------------|
+
+|--------------------------------------------------------------------------|
+|Guardsman Trainer (AC 15, HP 31, Melee +6 1d8+2)  | (Human, Fighter L2) CR 2|
+|------------------------------------------|-------------------------------|
+|*Init* +2 (+2 dex)                        |*AC:* 15 *FF:* 13 *T:* 12      |
+|*HD:* 5, *HP:* 31              |*Str* 15(+2) *Dex* 15(+2) *Con* 16(+3)    |
+|*Speed:* 30ft                  |*Int* 12(+1) *Wis* 6(-2)  *Cha* 8(-1)     |
+|*Attack 1:* Longsword +6 1d8+2 (19-20/x2) | *Feats:* Toughness x 2        |
+|*Attack 2:* Whip 1d4+2        |*Intim* +1, *Jump* +4, *Ride* +4, *Swim* +4|
+|*Fort:* +9 *Ref:* +3 *Will:* -1|*Climb* +4, *Craft()* +3, *Hdl Animal* +10|
+|*Fighter Feat:* Toughness *Human Feat:* Toughness|*BAB:* +4 Grp +6        |
+|*Advancement:* By Character Class|*Skill Point Bonus:* +1/hd              |
+|*Speed:* 30ft *Space/Reach:* 5 ft. (1 sq) |*Skill Points:* 24             |
+|--------------------------------------------------------------------------|
+
+|-------------------------------------------------------------------------------|
+|Level of Character|Guardsman (CR2)|Venom Rat (CR 3)|Total XP Earned|XP to Award|
+|------------------|---------------|----------------|---------------|-----------|
+|Level 4           |600            |800             |3250           |650        |
+|Level 5           |500            |750             |3600           |725        |
+|Level 9           |225            |338             |1464           |292.8      |
+|------------------|---------------|----------------|---------------|-----------|
+
+
+|--------------------------------------------------------------------------------------|
+|Level of Character|Guardsman (CR2)|Elemental (CR3)|Total XP Earned  |XP to Award      |
+|------------------|---------------|---------------|-----------------|-----------------|
+|Level 4           |150            |150            |                 |450 \[4(600)\]   |
+|Level 5           |160            |1800 \[4(2400)\] |450 \[4(600)\] |
+|Level 9           |68             |1050 \[4(1400)\] |263 \[4(350)\] |
+|------------------|---------------|---------------|-----------------|
+
+|--------------------------------------------------------------------------|
+|Naked Guardsman  (AC 12, HP 31, Melee +6 1d8+2) | (Human, Fighter L2) CR 2|
+|------------------------------------------|-------------------------------|
+|*Init* +2 (+2 dex)                        |*AC:* 12 *FF:* 10 *T:* 12      |
+|*HD:* 5, *HP:* 31              |*Str* 15(+2) *Dex* 15(+2) *Con* 16(+3)    |
+|*Speed:* 30ft                  |*Int* 12(+1) *Wis* 6(-2)  *Cha* 8(-1)     |
+|*Attack 1:* Dagger +1 1d4+2 (x2)       | *Feats:* Toughness x 2           |
+|*Attack 2:* Punch +0 1d4      |*Intim* +1, *Jump* +4, *Ride* +4, *Swim* +4|
+|*Fort:* +9 *Ref:* +3 *Will:* -1|*Climb* +4, *Craft()* +3, *Hdl Animal* +10|
+|*Fighter Feat:* Toughness *Human Feat:* Toughness|*BAB:* +4 Grp +6        |
+|*Advancement:* By Character Class|*Skill Point Bonus:* +1/hd              |
+|*Speed:* 30ft *Space/Reach:* 5 ft. (1 sq) |*Skill Points:* 24             |
+|--------------------------------------------------------------------------|
+
+
+|--------------------------------------------------------------------|
+|Level of Character|Guardsman (CR2)|Total XP Earned|XP to Award      |
+|------------------|---------------|---------------|-----------------|
+|Level 3           |600            |2400           |600              |
+|Level 4           |600            |2400           |600              |
+|Level 7           |350            |1400           |350              |
+|------------------|---------------|---------------|-----------------|
+
+
+|--------------------------------------------------------------------------|
+|Guard Captain  (AC 17, HP 61, Melee +6 1d8+2) | (Drow, Fighter L4) CR   5 |
+|------------------------------------------|-------------------------------|
+|*Init* +2 (+2 dex)                        |*AC:* 15 *FF:* 15 *T:* 10      |
+|*HD:* 4, *HP:* 30              |*Str* 17(+3) *Dex* 15(+2) *Con* 14(+2)    |
+|*Speed:* 30ft                  |*Int* 14(+2) *Wis* 6(-2)  *Cha* 10(0)     |
+|*Attack 1:* Rapier +7 1d8+3 (18-20/x2)    | *Feats:* Toughness x 2         |
+|*Attack 2:* Hnd Crossbow +5 1d8|*Intim* +1, *Jump* +4, *Ride* +3, *Swim* +4|
+|*Fort:* +6 *Ref:* +3 *Will:* -1|*Climb* +4, *Craft()* +3, *Hdl Animal* +1 |
+|*Drow Traits* +2 Save v Spell, No Sleep |*BAB:* +4 Grp +7        |
+|*Spell Resistance* 15, *Darkvision* |*Skill Point Bonus:* +1/hd           |
+|*Speed:* 30ft *Space/Reach:* 5 ft. (1 sq) |*Skill Points:* 16
+|*Light Blindness* Abrupt Light Blinds 1 rnd | *Spells:* Dancing Lights, Faerie Fire|
+|--------------------------------------------------------------------------|
+
+|--------------------------------------------------------------------|
+|Level of Character|Guardsman (CR2)|Total XP Earned|XP to Award      |
+|------------------|---------------|---------------|-----------------|
+|Level 3           |600            |1800           |450              |
+|Level 4           |600            |1800           |450              |
+|Level 7           |350            |1050           |263              |
+|------------------|---------------|---------------|-----------------|
+
+
+|--------------------------------------------------------------------------|
+|Elemental  (AC 17, HP 61, Melee +6 1d8+2) | (Elemental, Air) CR   3       |
+|------------------------------------------|-------------------------------|
+|*Init* +9 (+5 dex, +4 Improved Init)      |*AC:* 13 *FF:* 13 *T:* 10      |
+|*HD:* 4, *HP:* 26              |*Str* 12(+1) *Dex* 21(+5) *Con* 14(+2)    |
+|*Speed:* 100ft Fly             |*Int* 4(-3) *Wis* 11(0)  *Cha* 11(0)     |
+|*Attack 1:* Slam +8 1d6+1      | *Feats:* Improved Init, Weapon Finesse, Dodge, Flyby Attack |
+|*Attack 2:* None               |*Intim* +1, *Jump* +4, *Ride* +3, *Swim* +4|
+|*Fort:* +3 *Ref:* +9 *Will:* +1|*Climb* +4, *Craft()* +3, *Hdl Animal* +1 |
+|*Drow Traits* No Poi, Slp, Par, Stun, Crit, or Flank |*BAB:* +4 Grp +7        |
+|*Spell Resistance* 15, *Darkvision* |*Skill Point Bonus:* +1/hd           |
+|*Speed:* 30ft *Space/Reach:* 5 ft. (1 sq) |*Skill Points:* 16
+|--------------------------------------------------------------------------|
+
+|--------------------------------------------------------------------|
+|Level of Character|Elemental (CR3)|Total XP Earned|XP to Award      |
+|------------------|---------------|---------------|-----------------|
+|Level 3           |900            |3600           |900              |
+|Level 4           |900            |3600           |900              |
+|Level 7           |525            |2100           |525              |
+|------------------|---------------|---------------|-----------------|
+
+
+|--------------------------------------------------------------------------|
+|Elemental  (AC 17, HP 61, Melee +6 1d8+2) | (Elemental, Air) CR   3       |
+|------------------------------------------|-------------------------------|
+|*Init* +9 (+5 dex, +4 Improved Init)      |*AC:* 13 *FF:* 13 *T:* 10      |
+|*HD:* 4, *HP:* 26              |*Str* 12(+1) *Dex* 21(+5) *Con* 14(+2)    |
+|*Speed:* 100ft Fly             |*Int* 4(-3) *Wis* 11(0)  *Cha* 11(0)     |
+|*Attack 1:* Slam +8 1d6+1      | *Feats:* Improved Init, Weapon Finesse, Dodge, Flyby Attack |
+|*Attack 2:* None               |*Intim* +1, *Jump* +4, *Ride* +3, *Swim* +4|
+|*Fort:* +3 *Ref:* +9 *Will:* +1|*Climb* +4, *Craft()* +3, *Hdl Animal* +1 |
+|*Drow Traits* No Poi, Slp, Par, Stun, Crit, or Flank |*BAB:* +4 Grp +7        |
+|*Spell Resistance* 15, *Darkvision* |*Skill Point Bonus:* +1/hd           |
+|*Speed:* 30ft *Space/Reach:* 5 ft. (1 sq) |*Skill Points:* 16
+|--------------------------------------------------------------------------|
+
+
+|--------------------------------------------------------------------|
+|Level of Character|Elemental (CR3)|Total XP Earned|XP to Award      |
+|------------------|---------------|---------------|-----------------|
+|Level 3           |900            |3600           |900              |
+|Level 4           |900            |3600           |900              |
+|Level 7           |525            |2100           |525              |
+|------------------|---------------|---------------|-----------------|
+
+
+|--------------------------------------------------------------------------|
+|Goblin Warrior (AC 15, HP 31, Melee +6 1d8+2)  | (Human, Fighter L2) CR 2|
+|------------------------------------------|-------------------------------|
+|*Init* +2 (+2 dex)                        |*AC:* 15 *FF:* 13 *T:* 12      |
+|*HD:* 5, *HP:* 31              |*Str* 15(+2) *Dex* 15(+2) *Con* 16(+3)    |
+|*Speed:* 30ft                  |*Int* 12(+1) *Wis* 6(-2)  *Cha* 8(-1)     |
+|*Attack 1:* Longsword +6 1d8+2 (19-20/x2) | *Feats:* Toughness x 2        |
+|*Attack 2:* Whip 1d4+2        |*Intim* +1, *Jump* +4, *Ride* +4, *Swim* +4|
+|*Fort:* +9 *Ref:* +3 *Will:* -1|*Climb* +4, *Craft()* +3, *Hdl Animal* +10|
+|*Fighter Feat:* Toughness *Human Feat:* Toughness|*BAB:* +4 Grp +6        |
+|*Advancement:* By Character Class|*Skill Point Bonus:* +1/hd              |
+|*Speed:* 30ft *Space/Reach:* 5 ft. (1 sq) |*Skill Points:* 24             |
+|--------------------------------------------------------------------------|
+
+
+|--------------------------------------------------------------------|
+|Level of Character|Elemental (CR3)|Total XP Earned|XP to Award      |
+|------------------|---------------|---------------|-----------------|
+|Level 3           |600            |2400           |600              |
+|Level 4           |600            |2400           |600              |
+|Level 7           |350            |1400           |350              |
+|------------------|---------------|---------------|-----------------|
+
+
+[cc]: http://creativecommons.org/licenses/by-sa/3.0/us/
+[ogl]: http://www.wizards.com/d20/files/OGLv1.0a.rtf

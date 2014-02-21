@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<!--<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="{lang:}"> -->
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="description" content="The Official Homepage for Chris Rodriguez Productions, including all works published by Christopher Rodriguez." />
+    <meta name="keywords" content="cdr255,music,games,boardgames,ttrpg,christopher,rodriguez,harp,bass,concertina,banjo,guitar,pathfinder,dnd,derps,elemental,warfare,indie,mp3,download,midi,vinescript" />
+    <meta name="generator" content="webgen - http://webgen.rubyforge.org" />
+    <link rel="stylesheet" href="{relocatable: default.css}" type="text/css" media="screen,projection" />
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+    <title>cdr255:{title:}</title>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      
+      ga('create', 'UA-48095566-1', 'cdr255.com');
+      ga('send', 'pageview');
+      
+    </script>
+  </head>
+
+  <body>
+
+    <div id="container" >
+
+      <div id="header">
+        <h1><a href="{relocatable: /index.html}">cdr255:home</a></h1>
+        <h2>The Official Homepage of Chris Rodriguez Productions</h2>
+      </div>
+
+      <div id="navigation">
+	{menu: {options: {mi: {in_menu: true}, sort: true, absolute_levels: 1}}}
+      </div>
+
+      <div id="content">
+        <webgen:block name="content" />
+      </div>
+
+      <div id="subcontent">
+<!--    
+        <h2>Nested Menu</h2>
+        <div id="submenu">{menu: }</div> -->
+
+        <a class="twitter-timeline" href="https://twitter.com/cdr255"  data-widget-id="346527819267973120" data-tweet-limit="1" data-chrome="nofooter transparent noscrollbar noborders noheader" data-aria-polite="assertive" data-link-color="#aa2222" >Tweets by @cdr255</a>
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	
+	<h3>Social Media</h3>
+	<div class="small box" style="text-align: center;">
+	  <a href="https://www.youtube.com/cdr255" title="Subscribe to my Youtube Channel!" ><img src="icons/youtube.png" alt="Youtube - "/></a>
+	  <a href="https://twitter.com/cdr255" title="Follow us on Twitter!" ><img src="icons/twitter.png" alt="Twitter - "/></a>
+	  <a href="https://www.facebook.com/chrisrodprod" title="Like us on Facebook!" ><img src="icons/facebook.png" alt="Facebook - "/></a>
+	  <a href="http://www.reddit.com/r/chrisrodprod/" title="See what They're saying on Reddit!"><img src="icons/reddit.png" alt="Reddit - "/></a>
+	  <a href="http://www.behance.net/cdr255" title="Follow us on Behance"><img src="icons/behance.png" alt="Behance - "/></a>
+	  <a href="http://cdr255.tumblr.com/" title="Follow us on Tumblr"><img src="icons/tumblr.png" alt="Tumblr - "/></a>
+	  <a href="http://www.linkedin.com/pub/christopher-rodriguez/5b/9a1/b58" title="Join my Network on Linkedin!"><img src="icons/linkedin.png" alt="LinkedIn - "/></a>
+	  <br />
+	  <a href="http://soundcloud.com/cdr255" title="Listen to our Soundcloud!"><img src="icons/soundcloud.png" alt="Soundcloud - "/></a>
+	  <a href="http://www.photobucket.com/user/cdr255/profile/" title="View our photos!"><img src="icons/photobucket.png" alt="Photobucket"/></a>
+	  <a href="http://identi.ca/cdr255" title="Follow us on Identi.ca!"><img src="icons/identica.png" alt="Identica - "/></a>
+	  <a href="http://cdr255.newgrounds.com" title="Vote on our stuff on Newgrounds!"><img src="icons/newgrounds.png" />
+	  <!-- <a href="http://cdr255.hyves.nl" title="Join our Hyve!"><img src="icons/hyves.png" /></a> -->
+	  <a href="mailto:cdr255@gmail.com" title="Drop us an Email!"><img src="icons/email.png" alt="Email - "/></a>
+	  <a href="https://plus.google.com/109098756003884041483" rel="publisher" title="Join our circle on Google+!"><img src="icons/googleplus.png" alt="Google+ - "/></a>
+	  <br />
+	  <a href="http://instagram.com/cdr255" title="See our album of work on Instagram!"><img src="icons/instagram.png" alt="Instagram - "/></a>
+	  <a href="http://cdr255.blogspot.com/" title="I also have an Art Blog on Blogger!"><img src="icons/blogger.png" alt="Blogger"/></a>
+	  <a href="http://www.last.fm/user/cdr255" title="I scrobble what I listen to on Last.fm!"><img src="icons/lastfm.png" alt="Last.fm - "/></a>
+	  <a href="https://foursquare.com/cdr255" title="Let's go places on Foursquare!"><img src="icons/foursquare.png" alt="Foursquare - "/></a>
+	  <a href="http://cdr255.deviantart.com/" title="I am a Deviant, at times..."><img src="icons/deviantart.png" alt="DeviantArt - "/></a>
+	  <a href="http://www.goodreads.com/user/show/23835045-cdr255" title="I like to read, too."><img src="icons/goodreads.png" alt="Goodreads"/></a>
+	  <a href="https://cdr255.bandcamp.com/" title="I publish a lot of my work on bandcamp, all pay-what-you-want, too."><img src="icons/bandcamp.png" alt="Bandcamp"/></a>
+	</div>
+	
+	
+	<script id='fbmjds4'>(function(i){var f,s=document.getElementById(i);f=document.createElement('iframe');f.src='//api.flattr.com/button/view/?uid=cdr255&button=compact&url='+encodeURIComponent(document.URL);f.title='Flattr';f.height=20;f.width=110;f.style.borderWidth=0;s.parentNode.insertBefore(f,s);})('fbmjds4');</script> <br />
+	<a href="http://www.w3.org/html/logo/"><img src="icons/use-html5.png"  alt="HTML5 Powered" title="HTML5 Powered" /></a>
+	<a href="http://www.gnu.org/software/emacs/"><img src="icons/use-emacs.png" alt="Powered By Emacs" /></a><br />
+	<a href="http://www.zegeniestudios.net/ldc/"><img src="icons/use-gnu_linux.png" alt="Use GNU/Linux" /></a>
+	<a href="http://www.slackware.com"><img src="icons/use-slackware.png" alt="Use Slackware" /></a><br />
+	<a href="http://www.salixos.org"><img src="icons/use-salixos.png" alt="Use SalixOS" /></a>
+	<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="icons/cc-by-sa-3.0.png" /></a><br />
+</div>
+      <div id="footer">
+        <p>&copy; 2006-13 <a href="mailto:cdr255@gmail.com">Christopher Rodriguez</a> | Generated by <a href="http://webgen.rubyforge.org">webgen</a> | Design Originally by <a href="http://andreasviklund.com">Andreas Viklund</a></p>
+      </div>
+      
+    </div>
+  </body>
+</html>
+  

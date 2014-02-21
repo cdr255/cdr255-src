@@ -1,0 +1,332 @@
+---
+title: NA02 - Survive the Rebellion
+in_menu: false
+
+---
+## NA03. Dragons and Dungeons ##
+
+### Prelude ###
+
+From NA02, the party had decided to aid Liana's Rebellion instead of
+the Resistance. They travelled to Gariland, upon the word of Liana,
+before she fled. 
+
+The following is the first part, which I did by improvisation, because
+my printer was dead at the time: They found Liana at the stale potion,
+they accepted a job offer to go and retrieve "an important object,"
+travelled west for a long time (stopping to have some weapons made and
+hide out from the Empire a bit), reached the Rat Cellar, Found an
+object which fit the bill, helped the people of the Rat Cellar defend
+themselves against the Empire's siege, and then headed East again.
+
+Now, they must meet up with Liana, and somehow break Dorian out of his
+cell before he is executed.
+
+#### Meta Info ####
+
+This is an adventure module for a Heavily Modified version of 3.5
+edition Dungeons and Dragons. It is intended for 4-5 5th Level
+Characters, and was specifically written as part of an ongoing
+campaign entitled, "End of the Empire."
+
+This Adventure Module is free to read, use, distribute, and modify. It
+is licensed (as much as it can be) under the [CC-BY-SA 3.0][cc]
+license. Anything that must be licensed under the [OGL][ogl],
+is... but I personally do not like what that license requires of
+authors, and therefore would prefer a different license.
+
+#### Introduction ####
+
+<div class="small box"> <p>"The party awakens early the next morning
+to find that two members of the party have disappeared in the night,
+leaving behind naught but a rough patch where they slept, and a ripped
+bedroll fit for a Goblin. Both Jareth and Sharazad are no where to be
+found."</p>
+
+<p>"What do You do?" __Await their responses, encouraging them to role
+play actual reactions and not just 'We pack up camp'. Once they do
+decide to set out, read the following.__</p>
+
+<p>"Make Spot Checks (DC 10)
+[You hear someone approaching, and turn to see... (have the new 
+character introduce themselves.)]</p>
+
+<p>Provided none in the party have a problem with the new character,
+ask them "What do You do?" __Do not tell the new player anything: He/She
+is a newcomer to the group, and should know very little about their
+goings on.__</p>
+
+</div>
+
+This section is meant to introduce the player. However, if they are
+taking too long (or You wanna start things off with Combat) You can
+roll a die and make the following encounter happen:
+
+
+##### Stat Cards #####
+
+|--------------------------------------------------------------------------|
+|Bugbear Sword  (AC 17, HP 61, Melee +6 1d8+2) | (Bugbear, Fighter2) CR   4|
+|------------------------------------------|-------------------------------|
+|*Init* +2 (+2 dex)                        |*AC:* 15 *FF:* 13 *T:* 12      |
+|*HD:* 5, *HP:* 39              |*Str* 19(+4) *Dex* 15(+2) *Con* 16(+3)    |
+|*Speed:* 30ft                   |*Int* 12(+1) *Wis* 8(-1)  *Cha* 8(-1)    |
+|*Attack 1:* Morning Star +9 1d8+4 | *Feats:* Alertness, Weapon Focus(Morningstar)|
+|*Attack 2:* Short Bow +6 1d6+0 |*Intim* +0, *Jump* +5, *Ride* +3, *Swim* +5|
+|*Fort:* +7 *Ref:* +5 *Will:* +0 |*Climb* +5, *Craft(Alchemy)* +2, *Hide* +3 *Mv Silent* +7|
+|*Fighter Bonus Feat* - *Scent* |*BAB:* +4 *Grp* +8        |
+|*Spell Resistance* 15, *Darkvision* |*Skill Point Bonus:* +1/hd           |
+|*Speed:* 30ft *Space/Reach:* 5 ft. (1 sq) |*Skill Points:* 24
+|--------------------------------------------------------------------------|
+
+__Number in Encounter: 3 Bugbear Swords.__
+
+##### Fluff and Details #####
+
+Well, Looks like You chose to sleep right on top of some kind of
+Bugbear burial ground... and the locals have taken umbrage to
+that. They wanna bury *You* now, and nothing will sate their
+bloodlust.
+
+##### XP Table #####
+
+
+|--------------------------------------------------------------|
+|Level of Character|B. Sword (CR4) |Total XP Earned|XP to Award|
+|------------------|---------------|---------------|-----------|
+|Level 4           |1200           |2400           |600        |
+|Level 9           |450            |900            |225        |
+|------------------|---------------|---------------|-----------|
+
+
+#### Post Combat Oppurtunities ####
+
+Hopefully, they will not wanna torch the rest of the village. If they
+do, draw Good-Aligned characters into suspicion of Evil. Then, they
+must find their way back to the vicinity of the Duke's
+Fort. Otherwise, dip into random shit.
+
+#### The Fun Begins ####
+
+Once they are within an hour of the fort, they trigger "Liana's
+Greater Warding of Alarm," a 7th level divination spell to alert her
+when the party is back in the vicinity. Within a little time, have her
+arrive in their place on foot. She speaks, saying that the plan is
+already underway to break Dorian out of prison and flee to a safer
+place for a time. Had they gotten their sooner, they could have helped
+with the infiltration... but since they are here, they can clear out
+the escape route.
+
+The Duke's dungeons have been connected to an old mine by a
+subterranian tunnel, and they are going to usher Dorian out that
+way. However, the Mines are unfortunately forgotten to the empire,
+which means they have been infested with some creatures of ill repute:
+Kobolds, of the Golbadin Tribe, some days journey to the east. They
+must clear out the dungeon.
+
+### Adventure ###
+
+
+#### Room A: The Entrance ####
+You come across a rockey cliff with a large hole bored into the
+side. From what You can see, the inside is dark, but You can tell it
+slopes down just before the light gives out.
+
+
+Upon entering the dungeon, read the following:
+
+__HANDWRITTEN TIME__
+
+
+#### Random Monster Tables ####
+
+
+|--------------------------------------------------------------------------|
+|Guardsman (AC 15, HP 51, Melee +6 1d8+2)  | (Human, Fighter L2) CR 2      |
+|------------------------------------------|-------------------------------|
+|*Init* +2 (+2 dex)                        |*AC:* 15 *FF:* 13 *T:* 12      |
+|*HD:* 5, *HP:* 51              |*Str* 15(+2) *Dex* 15(+2) *Con* 16(+3)    |
+|*Speed:* 30ft                  |*Int* 12(+1) *Wis* 6(-2)  *Cha* 8(-1)     |
+|*Attack 1:* Longsword +6 1d8+2 (19-20/x2) | *Feats:* Toughness x 2        |
+|*Attack 2:* Short bow +6 1d4+0|*Intim* +1, *Jump* +4, *Ride* +4, *Swim* +4|
+|*Fort:* +9 *Ref:* +3 *Will:* -1|*Climb* +4, *Craft()* +3, *Hdl Animal* +1 |
+|*Fighter Feat:* Toughness *Human Feat:* Toughness|*BAB:* +4 Grp +6        |
+|*Advancement:* By Character Class|*Skill Point Bonus:* +1/hd              |
+|*Speed:* 30ft *Space/Reach:* 5 ft. (1 sq) |*Skill Points:* 24             |
+|--------------------------------------------------------------------------|
+
+
+|--------------------------------------------------------------------|
+|Level of Character|Guardsman (CR2)|Total XP Earned|XP to Award      |
+|------------------|---------------|---------------|-----------------|
+|Level 3           |600            |1800 \[4(2400)\] |450 \[4(600)\] |
+|Level 4           |600            |1800 \[4(2400)\] |450 \[4(600)\] |
+|Level 7           |350            |1050 \[4(1400)\] |263 \[4(350)\] |
+|------------------|---------------|---------------|-----------------|
+
+|--------------------------------------------------------------------------|
+|Venomous Rat (AC 16, HP 22, Melee +4 1d4+4 )| (Dire Dire Rat) CR 3        |
+|------------------------------------------|-------------------------------|
+|*Init* +3 (+3 dex)                        |*AC:* 16 *FF:* 13 *T:* 13      |
+|*HD:* 3, *HP:* 22              |*Str* 18(+4) *Dex* 17(+3) *Con* 16(+3)    |
+|*Speed:* 40ft  *Climb:* 20ft   |*Int* 1(-5) *Wis* 12(+1)  *Cha* 4(-3)     |
+|*Attack 1:* Bite +4 1d4+4      | *Feats:* Alertness, Weapon Finesse(B)    |
+|*Attack 2:* Scratch +2 1d6     |*Hide* +4, *Listen* +2, *Move Silent* +4, |
+|*Fort:* +6 *Ref:* +6 *Will:* +4|*Climb* +13, *Spot* +2, *Swim* +5         |
+|*Disease:* Fort DC 14          |*BAB:* +4                                 |
+|(incubate 1d3 days, dmg 1d3 Dex and Con)|*Low Light Vision* & *Scent*     |
+|*Speed:* 40ft *Space/Reach:* 5 ft. (1 sq) |*Skill Points:* 6              |
+|--------------------------------------------------------------------------|
+
+|--------------------------------------------------------------------------|
+|Guardsman Trainer (AC 15, HP 31, Melee +6 1d8+2)  | (Human, Fighter L2) CR 2|
+|------------------------------------------|-------------------------------|
+|*Init* +2 (+2 dex)                        |*AC:* 15 *FF:* 13 *T:* 12      |
+|*HD:* 5, *HP:* 31              |*Str* 15(+2) *Dex* 15(+2) *Con* 16(+3)    |
+|*Speed:* 30ft                  |*Int* 12(+1) *Wis* 6(-2)  *Cha* 8(-1)     |
+|*Attack 1:* Longsword +6 1d8+2 (19-20/x2) | *Feats:* Toughness x 2        |
+|*Attack 2:* Whip 1d4+2        |*Intim* +1, *Jump* +4, *Ride* +4, *Swim* +4|
+|*Fort:* +9 *Ref:* +3 *Will:* -1|*Climb* +4, *Craft()* +3, *Hdl Animal* +10|
+|*Fighter Feat:* Toughness *Human Feat:* Toughness|*BAB:* +4 Grp +6        |
+|*Advancement:* By Character Class|*Skill Point Bonus:* +1/hd              |
+|*Speed:* 30ft *Space/Reach:* 5 ft. (1 sq) |*Skill Points:* 24             |
+|--------------------------------------------------------------------------|
+
+|-------------------------------------------------------------------------------|
+|Level of Character|Guardsman (CR2)|Venom Rat (CR 3)|Total XP Earned|XP to Award|
+|------------------|---------------|----------------|---------------|-----------|
+|Level 4           |600            |800             |3250           |650        |
+|Level 5           |500            |750             |3600           |725        |
+|Level 9           |225            |338             |1464           |292.8      |
+|------------------|---------------|----------------|---------------|-----------|
+
+
+|--------------------------------------------------------------------------------------|
+|Level of Character|Guardsman (CR2)|Elemental (CR3)|Total XP Earned  |XP to Award      |
+|------------------|---------------|---------------|-----------------|-----------------|
+|Level 4           |150            |150            |                 |450 \[4(600)\]   |
+|Level 5           |160            |1800 \[4(2400)\] |450 \[4(600)\] |
+|Level 9           |68             |1050 \[4(1400)\] |263 \[4(350)\] |
+|------------------|---------------|---------------|-----------------|
+
+|--------------------------------------------------------------------------|
+|Naked Guardsman  (AC 12, HP 31, Melee +6 1d8+2) | (Human, Fighter L2) CR 2|
+|------------------------------------------|-------------------------------|
+|*Init* +2 (+2 dex)                        |*AC:* 12 *FF:* 10 *T:* 12      |
+|*HD:* 5, *HP:* 31              |*Str* 15(+2) *Dex* 15(+2) *Con* 16(+3)    |
+|*Speed:* 30ft                  |*Int* 12(+1) *Wis* 6(-2)  *Cha* 8(-1)     |
+|*Attack 1:* Dagger +1 1d4+2 (x2)       | *Feats:* Toughness x 2           |
+|*Attack 2:* Punch +0 1d4      |*Intim* +1, *Jump* +4, *Ride* +4, *Swim* +4|
+|*Fort:* +9 *Ref:* +3 *Will:* -1|*Climb* +4, *Craft()* +3, *Hdl Animal* +10|
+|*Fighter Feat:* Toughness *Human Feat:* Toughness|*BAB:* +4 Grp +6        |
+|*Advancement:* By Character Class|*Skill Point Bonus:* +1/hd              |
+|*Speed:* 30ft *Space/Reach:* 5 ft. (1 sq) |*Skill Points:* 24             |
+|--------------------------------------------------------------------------|
+
+
+|--------------------------------------------------------------------|
+|Level of Character|Guardsman (CR2)|Total XP Earned|XP to Award      |
+|------------------|---------------|---------------|-----------------|
+|Level 3           |600            |2400           |600              |
+|Level 4           |600            |2400           |600              |
+|Level 7           |350            |1400           |350              |
+|------------------|---------------|---------------|-----------------|
+
+
+|--------------------------------------------------------------------------|
+|Guard Captain  (AC 17, HP 61, Melee +6 1d8+2) | (Drow, Fighter L4) CR   5 |
+|------------------------------------------|-------------------------------|
+|*Init* +2 (+2 dex)                        |*AC:* 15 *FF:* 15 *T:* 10      |
+|*HD:* 4, *HP:* 30              |*Str* 17(+3) *Dex* 15(+2) *Con* 14(+2)    |
+|*Speed:* 30ft                  |*Int* 14(+2) *Wis* 6(-2)  *Cha* 10(0)     |
+|*Attack 1:* Rapier +7 1d8+3 (18-20/x2)    | *Feats:* Toughness x 2         |
+|*Attack 2:* Hnd Crossbow +5 1d8|*Intim* +1, *Jump* +4, *Ride* +3, *Swim* +4|
+|*Fort:* +6 *Ref:* +3 *Will:* -1|*Climb* +4, *Craft()* +3, *Hdl Animal* +1 |
+|*Drow Traits* +2 Save v Spell, No Sleep |*BAB:* +4 Grp +7        |
+|*Spell Resistance* 15, *Darkvision* |*Skill Point Bonus:* +1/hd           |
+|*Speed:* 30ft *Space/Reach:* 5 ft. (1 sq) |*Skill Points:* 16
+|*Light Blindness* Abrupt Light Blinds 1 rnd | *Spells:* Dancing Lights, Faerie Fire|
+|--------------------------------------------------------------------------|
+
+|--------------------------------------------------------------------|
+|Level of Character|Guardsman (CR2)|Total XP Earned|XP to Award      |
+|------------------|---------------|---------------|-----------------|
+|Level 3           |600            |1800           |450              |
+|Level 4           |600            |1800           |450              |
+|Level 7           |350            |1050           |263              |
+|------------------|---------------|---------------|-----------------|
+
+
+|--------------------------------------------------------------------------|
+|Elemental  (AC 17, HP 61, Melee +6 1d8+2) | (Elemental, Air) CR   3       |
+|------------------------------------------|-------------------------------|
+|*Init* +9 (+5 dex, +4 Improved Init)      |*AC:* 13 *FF:* 13 *T:* 10      |
+|*HD:* 4, *HP:* 26              |*Str* 12(+1) *Dex* 21(+5) *Con* 14(+2)    |
+|*Speed:* 100ft Fly             |*Int* 4(-3) *Wis* 11(0)  *Cha* 11(0)     |
+|*Attack 1:* Slam +8 1d6+1      | *Feats:* Improved Init, Weapon Finesse, Dodge, Flyby Attack |
+|*Attack 2:* None               |*Intim* +1, *Jump* +4, *Ride* +3, *Swim* +4|
+|*Fort:* +3 *Ref:* +9 *Will:* +1|*Climb* +4, *Craft()* +3, *Hdl Animal* +1 |
+|*Drow Traits* No Poi, Slp, Par, Stun, Crit, or Flank |*BAB:* +4 Grp +7        |
+|*Spell Resistance* 15, *Darkvision* |*Skill Point Bonus:* +1/hd           |
+|*Speed:* 30ft *Space/Reach:* 5 ft. (1 sq) |*Skill Points:* 16
+|--------------------------------------------------------------------------|
+
+|--------------------------------------------------------------------|
+|Level of Character|Elemental (CR3)|Total XP Earned|XP to Award      |
+|------------------|---------------|---------------|-----------------|
+|Level 3           |900            |3600           |900              |
+|Level 4           |900            |3600           |900              |
+|Level 7           |525            |2100           |525              |
+|------------------|---------------|---------------|-----------------|
+
+
+|--------------------------------------------------------------------------|
+|Elemental  (AC 17, HP 61, Melee +6 1d8+2) | (Elemental, Air) CR   3       |
+|------------------------------------------|-------------------------------|
+|*Init* +9 (+5 dex, +4 Improved Init)      |*AC:* 13 *FF:* 13 *T:* 10      |
+|*HD:* 4, *HP:* 26              |*Str* 12(+1) *Dex* 21(+5) *Con* 14(+2)    |
+|*Speed:* 100ft Fly             |*Int* 4(-3) *Wis* 11(0)  *Cha* 11(0)     |
+|*Attack 1:* Slam +8 1d6+1      | *Feats:* Improved Init, Weapon Finesse, Dodge, Flyby Attack |
+|*Attack 2:* None               |*Intim* +1, *Jump* +4, *Ride* +3, *Swim* +4|
+|*Fort:* +3 *Ref:* +9 *Will:* +1|*Climb* +4, *Craft()* +3, *Hdl Animal* +1 |
+|*Drow Traits* No Poi, Slp, Par, Stun, Crit, or Flank |*BAB:* +4 Grp +7        |
+|*Spell Resistance* 15, *Darkvision* |*Skill Point Bonus:* +1/hd           |
+|*Speed:* 30ft *Space/Reach:* 5 ft. (1 sq) |*Skill Points:* 16
+|--------------------------------------------------------------------------|
+
+
+|--------------------------------------------------------------------|
+|Level of Character|Elemental (CR3)|Total XP Earned|XP to Award      |
+|------------------|---------------|---------------|-----------------|
+|Level 3           |900            |3600           |900              |
+|Level 4           |900            |3600           |900              |
+|Level 7           |525            |2100           |525              |
+|------------------|---------------|---------------|-----------------|
+
+
+|--------------------------------------------------------------------------|
+|Goblin Warrior (AC 15, HP 31, Melee +6 1d8+2)  | (Human, Fighter L2) CR 2|
+|------------------------------------------|-------------------------------|
+|*Init* +2 (+2 dex)                        |*AC:* 15 *FF:* 13 *T:* 12      |
+|*HD:* 5, *HP:* 31              |*Str* 15(+2) *Dex* 15(+2) *Con* 16(+3)    |
+|*Speed:* 30ft                  |*Int* 12(+1) *Wis* 6(-2)  *Cha* 8(-1)     |
+|*Attack 1:* Longsword +6 1d8+2 (19-20/x2) | *Feats:* Toughness x 2        |
+|*Attack 2:* Whip 1d4+2        |*Intim* +1, *Jump* +4, *Ride* +4, *Swim* +4|
+|*Fort:* +9 *Ref:* +3 *Will:* -1|*Climb* +4, *Craft()* +3, *Hdl Animal* +10|
+|*Fighter Feat:* Toughness *Human Feat:* Toughness|*BAB:* +4 Grp +6        |
+|*Advancement:* By Character Class|*Skill Point Bonus:* +1/hd              |
+|*Speed:* 30ft *Space/Reach:* 5 ft. (1 sq) |*Skill Points:* 24             |
+|--------------------------------------------------------------------------|
+
+
+|--------------------------------------------------------------------|
+|Level of Character|Elemental (CR3)|Total XP Earned|XP to Award      |
+|------------------|---------------|---------------|-----------------|
+|Level 3           |600            |2400           |600              |
+|Level 4           |600            |2400           |600              |
+|Level 7           |350            |1400           |350              |
+|------------------|---------------|---------------|-----------------|
+
+
+[cc]: http://creativecommons.org/licenses/by-sa/3.0/us/
+[ogl]: http://www.wizards.com/d20/files/OGLv1.0a.rtf

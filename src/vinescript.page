@@ -1,0 +1,42 @@
+---
+title: Misc:Vinescript
+in_menu: false
+
+---
+
+## Vinescript ##
+
+![My Name in Vinescript](images/cdr-in-vinescript.png){:.right}{:title="My Full Name in Vinescript"}
+
+I love conlangs.
+
+Conlangs are Constructed Languages, the most famouse examples of which being 
+Klingon and Tengwar. They are languages that, instead of growing naturally out
+of a similar group of people needing a way to communicate, were delibrately
+made to exist because one single or group of people wanted the language to
+exist.
+
+My first step on creating my own conlang is a script system I am developing called
+__Vinescript__. It is currently in version 0.1a, and can be used to write fully
+functional, unchanged American English. At the moment, I have mostly used it to
+write peoples names.
+
+This page will document the progress I have made on it, as well as providing all
+of the resources needed in order for those interested to learn and use vinescript.
+There __will__ eventually be a codex, a workbook, and a font up here, as well as
+a good gallery of images. For now, I'll simply introduce the script with my name 
+written in it, and provide a small roadmap for future development.
+
+### Roadmap ###
+
+- Finalize current character shapes, add languuage specifier tohead.
+
+- Add Characters for the full ASCII charset.
+
+- Develop First Version of the Font.
+
+- Create First Version of the Codex.
+
+- Write First Version of a Workbook.
+
+- Add Characters for modified latin alphabets (Spanish, French, German)

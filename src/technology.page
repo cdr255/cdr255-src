@@ -1,0 +1,49 @@
+---
+title: Tech
+in_menu: true
+
+---
+## Technology ##
+
+<p>Hi there. Computers are a large part of my life, and I am a programmer of
+sorts... however, most of my work (especially lately) has been more of a web
+development and sysadmin vein. Here is a collection of scripts, links, and 
+guides for various kinds of computing tasks, that will be updated fairly
+regularly. Enjoy!</p>
+<hr />
+<table class="center" style="padding: 3px;">
+  <caption>Sysadmin Essays</caption>
+  <tr>
+    <th>#</th>
+    <th>Title</th>
+    <th>Focus</th>
+    <th>Download</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td><a href="http://www.slackware.com">Slackware 14.0</a> Server Setup Guide</td>
+    <td>Post install Configuration for <a href="http://www.slackware.com">Slackware 14.0</a> Servers </td>
+    <td><a href="content/slackware-14.0-server-setup.txt">txt</a></td>
+  </tr>
+</table>
+
+<table class="center">
+  <caption><a href="http://www.sbopkg.org/">Sbopkg</a> queue files</caption>
+  <tr>
+    <th>#</th>
+    <th>Title</th>
+    <th>Type</th>
+    <th>Result</th>
+    <th>Download</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>FFMPEG</td>
+    <td>Multimedia Production</td>
+    <td>Gives a fully-functional <a href="http://www.ffmpeg.org">ffmpeg</a> install.</td>
+    <td>
+      <a href="content/queuefiles/ffmpeg-queue">Queuefile</a>,
+      <a href="content/queuefiles/ffmpeg-queue.txt">Text</a>
+    </td>
+  </tr>
+</table>

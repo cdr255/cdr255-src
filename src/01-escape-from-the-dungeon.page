@@ -1,0 +1,619 @@
+---
+title: NA01 - Escape from the Dungeon
+in_menu: false
+
+---
+## NA01. Escape from the Dungeon ##
+
+### Prelude ###
+
+I Ran this adventure module with the idea of 
+
+#### Meta Info ####
+
+This is an adventure module for a Heavily Modified version of 3.5
+edition Dungeons and Dragons. It is intended for 4-5 3rd Level
+Characters, and was specifically written as part of an ongoing
+campaign entitled, "End of the Empire."
+
+This Adventure Module is free to read, use, distribute, and modify. It
+is licensed (as much as it can be) under the [CC-BY-SA 3.0][cc]
+license. Anything that must be licensed under the [OGL][ogl],
+is... but I personally do not like what that license requires of
+authors, and therefore would prefer a different license.
+
+#### Introduction ####
+
+<div class="small box">
+<p>"As You open Your eyes, You are greeted with the visage of a cold,
+moist stone cieling. From the Slitted windows in the wall comes the
+sound of the Frozen Bay, along with the occasional sea spray as the
+waves crash against the outside walls. You see four others slowly
+rousing themselves on the dirty, blood stained floor, and are then
+greeted with the memory of what has happened to You. As the true
+weight of Your situation begins to sink in, You are greeted with words
+in a voice cut with equal parts contempt and amusement. "</p>
+
+<p>" 'Oh, We're Finally Up, are We?' The man who spoke is fully armed,
+and has one hand gripping the metal bars which make the front wall of
+Your newfound cage. His breath is clearly visible as he speaks, made
+smoke in the cold winter air. "Well, it is about time. I was beginning
+to worry I'd have to come in and wake You up meself."  With this, he
+lets out a cruel chuckle, and steps back from the bars. He takes a
+seat in a wooden chair just to the right of Your cell, leans back, and
+says, 'Well, this here's Your new home. That there's Your
+family. Might as well get used to it. Just keep it down, it's about
+time I got some rest meself. There'll be plenty of time for us to get
+to know each other later.'  "</p>
+
+<p>"With this, he falls silent. There is a small dripping in the
+distance, in counterpoint to the steadily violent waves outside. This
+is soon joined by his snoring, which is both loud and long. He seems a
+fairly heavy sleeper. What do You do?"</p>
+
+</div>
+
+The members of the party have all been arrested and convicted of
+various "Crimes against the State," and sentenced to the
+dungeons. Through serendipity, they all have been placed in the same
+large cell. In the Empire of Bae Dhru'lan, convicted criminals are put
+to Sleep, and processed while they are unconscious. This is the state
+which the party is in at the start of this adventure. 
+
+Whoever has the highest fortitude save is the one who wakes up first.
+The rest, in order, wake up each round following.
+
+
+### Adventure ###
+
+#### Room A: The Cell ####
+The Players must first figure out how to get out of their prison cell.
+
+_This is a __Roleplay Challenge__. It is basically up to the players to
+decide what to do, but in the interest of making things run smoothly
+there are a few pre made checks below. The General DC for an unlisted
+but plausible attempt to succeed is 12._
+
+#### Roleplay Challenge #1: Escape the Cell ####
+__General DC: 17__
+_If the Player does not try to keep the guard from finding out, upon a
+successful roll, the guard wakes up. If the Guard can spot what the
+players did, then he runs to get help, in the form of three other
+guards and a guard hound (Bad Combat Scene Below).
+
+
+- _Pickpocket the guard:_ If a player decides to be ballsy and attempt
+  to steal from the guard, he must first describe how he does so. The
+  DCs for various approaches are:
+   
+   1. Just Reach In: DC 22.
+   2. Tip His Chair Over: DC 25.
+   3. Use a Stick to Reach In: DC 18.
+   4. Some Kind of Magic: DC 15.
+
+  _Success:_ The Player now has a key to the cell. He still must use
+  it to unlock the cell without causing attention.
+  
+  _Failure:_ The Player Awakens the Guard, and Angers him. The Guard
+  Hangs the key on the wall, on the other side of the hall from the
+  cell, out of reach.
+
+- _Break The Bars:_ If a player decides to try and force their way out
+  of the cell, he must first describe exactly what he is doing in
+  order to allow him to leave. Various Ideas and DCs:
+  
+  1. Bend the Bars: DC 20.
+  2. Break The Bars from the Wall: DC 20.
+  3. Break the Lock: DC 17.
+  4. Pick the Lock: DC 22.
+  
+  _Success:_ The Player Succeeds in modifying the bars in some
+  way. Guards will notice, especially the one that is waking up.
+  
+  _Failure:_ The Guard Wakes up and beats the player who attempted to
+  escape in this way. 1d4 damage with a blackjack.
+
+
+#### Encounter #1 - The Guards
+
+##### Stat Cards #####
+
+|--------------------------------------------------------------------------|
+|Guardsman (AC 15, HP 51, Melee +6 1d8+2)  | (Human, Fighter L2) CR 2      |
+|------------------------------------------|-------------------------------|
+|*Init* +2 (+2 dex)                        |*AC:* 15 *FF:* 13 *T:* 12      |
+|*HD:* 5, *HP:* 51              |*Str* 15(+2) *Dex* 15(+2) *Con* 16(+3)    |
+|*Speed:* 30ft                  |*Int* 12(+1) *Wis* 6(-2)  *Cha* 8(-1)     |
+|*Attack 1:* Longsword +6 1d8+2 (19-20/x2) | *Feats:* Toughness x 2        |
+|*Attack 2:* Short bow +6 1d4+0|*Intim* +1, *Jump* +4, *Ride* +4, *Swim* +4|
+|*Fort:* +9 *Ref:* +3 *Will:* -1|*Climb* +4, *Craft()* +3, *Hdl Animal* +1 |
+|*Fighter Feat:* Toughness *Human Feat:* Toughness|*BAB:* +4 Grp +6        |
+|*Advancement:* By Character Class|*Skill Point Bonus:* +1/hd              |
+|*Speed:* 30ft *Space/Reach:* 5 ft. (1 sq) |*Skill Points:* 24             |
+|--------------------------------------------------------------------------|
+
+__Number in Encounter:__ 2-4 Guardsmen (3 standard).
+
+##### Fluff and Details ######
+Upon Successfully escaping the dungeon, the party alerts the
+guards. This is usually because of the watchguard noticing the Players
+being up to no good. He fires off a wand down the hall, and moves to
+attack as the other two guards run to his help, arriving on each side
+after the first round.
+
+If the player incapacitated the watch guard in some way, then the
+guardsmen are patroling the hallways, as per standard Bae Dhr'ulan
+Prison Protocol. There are then only 2 in this encounter, not 3.
+
+Across the hall (DC 13 Spot Check) is a hidden door, underneath a hook
+(the key hook from above). Inside are the +1 Weapons listed on the
+character sheets of the players. The Hidden door is made of stone.
+
+The Guardsmen understand that Defeat (or even Escape, for You)
+probably equals their own deaths. They will not be bribed,
+intimidated, convinced, or any kind of talk-effected out of this
+encounter. They must be incapacitated, or killed, to effectively end
+this conflict.
+
+##### XP Table #####
+
+|--------------------------------------------------------------------|
+|Level of Character|Guardsman (CR2)|Total XP Earned|XP to Award      |
+|------------------|---------------|---------------|-----------------|
+|Level 3           |600            |1800 \[4(2400)\] |450 \[4(600)\] |
+|Level 4           |600            |1800 \[4(2400)\] |450 \[4(600)\] |
+|Level 7           |350            |1050 \[4(1400)\] |263 \[4(350)\] |
+|------------------|---------------|---------------|-----------------|
+
+#### Room B: Cell Hallway ####
+
+<div class="small box">
+
+<p>"Having Won Your Temporary Freedom, You take a look around. The
+floor is littered with the bodies of Your now former jailers. There is
+a single torch lighting the wall, next to a hook upon which rests a
+small ring of keys. There are exits to the East and the West, with
+loud, painful noises seeming to come from the West. The East, on the
+other hand, is deathly silent. Both are far too dark for human eyes to
+see down. What do You Do?"</p>
+
+</div>
+
+Characters who have dark vision are greeted with a curving hallway to
+the east, and a corner with a door to the west. Players with normal
+sight will find these out should they cautiously search (or simply
+dive in.
+
+If the players do not hide the bodies in some way, the guards will
+find them on their next patrol and come looking for the escaped
+prisoners. If they put the bodies in the cell, especially if they are
+stripped, then the guardsmen simply assume that those are the new
+prisoners... until the party makes it up to the second floor, that is.
+
+If the Party Goes West, Read __Room C__.
+
+If the Party Goes East, Read __Room E__.
+
+#### Room C: Torture Room ####
+
+<div class="small box">
+
+<p>"You head down the hallway, toward the loud and piercing
+screams. The hallway makes a sharp turn to the north, and on the
+facing wall there is a slightly ajar door. The Screams appear to be
+coming from behind it."</p>
+
+</div>
+
+#### If they Continue Down the Hallway: ####
+
+<div class="small box">
+
+<p>"Passing by the door, You come to a large metal grate, with a guard
+sitting on the other side. This guard is different, however: Pale
+orange skin, with fangs jutting up from his lower lip, his yellow eyes
+are both attentive and menacing. At Your approach, he darts to his feet,
+says something in a language none of You understand, and runs off down
+the hallway."</p>
+
+</div>
+
+This grate is locked, and needs a key to open. There is a key on the
+second key ring, which is found in __Room E__. The players may try to
+get around the grate in any way they wish, as before, but all will
+fail. This is a well made grate, which separates the lower level
+security from the upper level.
+
+
+#### If they open the Door: ####
+
+<div class="small box">
+
+<p>"As You push open the door, the visage of a tied up, badly wounded,
+naked Elf is the first thing to catch Your eye. The cause of his
+wounds is readily apparent: Directly in front of him, in a huge metal
+harness, is the form of a rat... Only 10 times larger. It is soaked in
+some kind of slimy, green, foul smelling liquid, and slashing at the
+elf's chest as it hisses menacingly. The elf screams once again as
+huge chunks of his flesh are torn from his body."</p>
+
+<p>Holding a whip in one hand, and the leash of the harness in the
+other, is a guardsman with cornflower hair. He is completely covered
+in specks of dried blood, and seems to be enraging his charge as best
+he can. As the door opened, however, his attention moves from the
+helpless Elf and to You, and he yanks the rat over to attack.</p>
+</div>
+
+#### Encounter 2: The Torturer ####
+
+##### Stat Cards #####
+
+|--------------------------------------------------------------------------|
+|Venomous Rat (AC 16, HP 22, Melee +4 1d4+4 )| (Dire Dire Rat) CR 3        |
+|------------------------------------------|-------------------------------|
+|*Init* +3 (+3 dex)                        |*AC:* 16 *FF:* 13 *T:* 13      |
+|*HD:* 3, *HP:* 22              |*Str* 18(+4) *Dex* 17(+3) *Con* 16(+3)    |
+|*Speed:* 40ft  *Climb:* 20ft   |*Int* 1(-5) *Wis* 12(+1)  *Cha* 4(-3)     |
+|*Attack 1:* Bite +4 1d4+4      | *Feats:* Alertness, Weapon Finesse(B)    |
+|*Attack 2:* Scratch +2 1d6     |*Hide* +4, *Listen* +2, *Move Silent* +4, |
+|*Fort:* +6 *Ref:* +6 *Will:* +4|*Climb* +13, *Spot* +2, *Swim* +5         |
+|*Disease:* Fort DC 14          |*BAB:* +4                                 |
+|(incubate 1d3 days, dmg 1d3 Dex and Con)|*Low Light Vision* & *Scent*     |
+|*Speed:* 40ft *Space/Reach:* 5 ft. (1 sq) |*Skill Points:* 6              |
+|--------------------------------------------------------------------------|
+
+|--------------------------------------------------------------------------|
+|Guardsman Trainer (AC 15, HP 31, Melee +6 1d8+2)  | (Human, Fighter L2) CR 2|
+|------------------------------------------|-------------------------------|
+|*Init* +2 (+2 dex)                        |*AC:* 15 *FF:* 13 *T:* 12      |
+|*HD:* 5, *HP:* 31              |*Str* 15(+2) *Dex* 15(+2) *Con* 16(+3)    |
+|*Speed:* 30ft                  |*Int* 12(+1) *Wis* 6(-2)  *Cha* 8(-1)     |
+|*Attack 1:* Longsword +6 1d8+2 (19-20/x2) | *Feats:* Toughness x 2        |
+|*Attack 2:* Whip 1d4+2        |*Intim* +1, *Jump* +4, *Ride* +4, *Swim* +4|
+|*Fort:* +9 *Ref:* +3 *Will:* -1|*Climb* +4, *Craft()* +3, *Hdl Animal* +10|
+|*Fighter Feat:* Toughness *Human Feat:* Toughness|*BAB:* +4 Grp +6        |
+|*Advancement:* By Character Class|*Skill Point Bonus:* +1/hd              |
+|*Speed:* 30ft *Space/Reach:* 5 ft. (1 sq) |*Skill Points:* 24             |
+|--------------------------------------------------------------------------|
+
+
+__Number in Encounter:__ 1 Guardsmen Trainer & 1 Venomous Rat.
+
+
+##### Fluff and Details #####
+The Guardsman Trainer has to keep one hand, his dominant, on the leash
+attached to the Venomous Rat. His Whip attack is in his off hand, -2
+to hit. If he drops the leash, the rat has a 25% chance (1 on a 1d4)
+of turning on him. Otherwise, it continues its attacks until the next
+round, making this check each time. The Prisoner Elf is Extremely
+Wounded, but Still Alive (unless killed during combat.)
+
+##### XP Table #####
+
+|-------------------------------------------------------------------------------|
+|Level of Character|Guardsman (CR2)|Venom Rat (CR 3)|Total XP Earned|XP to Award|
+|------------------|---------------|----------------|---------------|-----------|
+|Level 3           |600            |900             |1500           |375        |
+|Level 4           |600            |800             |1400           |350        |
+|Level 7           |350            |525             |875            |219        |
+|------------------|---------------|----------------|---------------|-----------|
+
+
+#### Post Combat Oppurtunities ####
+
+If the Players Keep the Elf Being Tortured Alive, they have 10 Rounds
+to Question Him before he succumbs to death. He knows the following
+useful information:
+
+- "There is a boat outside, that is part of the Dort'ar City
+  Resistance."
+  
+- "I was to escape today, saved by making a deal with the
+  Resistance."
+  
+- "I could have been free, had I just made it up to the top of the
+  watchtower."
+  
+- "The Resistance are the only way out of here."
+
+- "They will be beneath the window of the tower for the next half
+  hour. Then they will depart."
+  
+If the Elf dies before the Information Above is Revealed, then the
+only clue the party gets is the one on the letter on the floor of the
+room, should they find it by searching the room.
+
+If they Search the Guard, they find all of his items, along with the
+partially translated note.
+
+The Note is Supposed to read thusly:
+
+"We will be beneath the watchtower at Midnight tonight. One Hour
+Only. Jump."
+
+It was translated into a crytogram. The Cypher should change with
+every game, so it is not included here.
+
+#### Room D: The Low Level Barracks ####
+
+<div class="small box">
+<p>"The Hallway snakes around a few times before opening up into a
+large room. There are a few bunk beds, in various states of order, as
+well as a selection of lockers on the far walls."</p>
+</div>
+
+Have the Players Roll Move Silently, DC 15.
+
+#### Success: ####
+
+<div class="small box">
+<p>"There are a few guards snoring in various beds, but they do not
+awaken on Your approach. There is a huge door in the north marked with
+the word "Captain." Other than that, there is the hallway You came
+from. What do You do?</p>
+</div>
+
+If they wake the guards for any reason, go to "Failure."
+
+The Lockers contain studded leather armor x4, longsword x4, and
+cure moderate wounds potionx4 (standard guards locker).
+
+The Captains door is locked, but the key is on the keyring that was in
+front of their cell, if they took it. If they try to open the door,
+the captain hears and readies himself. If they simply have the key,
+then the captain is surprised and cannot act in the first round of
+Room E's Conflict.
+
+If the Party tries to do anything to the captains door, there is a
+ghost sound trap that goes off, unless they checked for traps and
+disarmed/dispelled it. It is "A Loud Roaring Voice Calling 'Intruders!
+Seize them!'" and wakes up the guards, unless they have already been
+dealt with. The Key obviously negates this trap.
+
+#### Failure: ####
+
+<div class="small box">
+<p>"As You walk into the room, You hear startled snores. They continue
+for a few second and then cease, with their owners darting out of
+their beds, holding small daggers, but wearing little else. They move
+towards You, muttering about putting You back in Your cell."</p> 
+</div>
+
+#### Encounter 3: Sleeping Guards. ####
+
+##### Stat Tables #####
+
+|--------------------------------------------------------------------------|
+|Naked Guardsman  (AC 12, HP 31, Melee +6 1d8+2) | (Human, Fighter L2) CR 2|
+|------------------------------------------|-------------------------------|
+|*Init* +2 (+2 dex)                        |*AC:* 12 *FF:* 10 *T:* 12      |
+|*HD:* 5, *HP:* 31              |*Str* 15(+2) *Dex* 15(+2) *Con* 16(+3)    |
+|*Speed:* 30ft                  |*Int* 12(+1) *Wis* 6(-2)  *Cha* 8(-1)     |
+|*Attack 1:* Dagger +1 1d4+2 (x2)       | *Feats:* Toughness x 2           |
+|*Attack 2:* Punch +0 1d4      |*Intim* +1, *Jump* +4, *Ride* +4, *Swim* +4|
+|*Fort:* +9 *Ref:* +3 *Will:* -1|*Climb* +4, *Craft()* +3, *Hdl Animal* +10|
+|*Fighter Feat:* Toughness *Human Feat:* Toughness|*BAB:* +4 Grp +6        |
+|*Advancement:* By Character Class|*Skill Point Bonus:* +1/hd              |
+|*Speed:* 30ft *Space/Reach:* 5 ft. (1 sq) |*Skill Points:* 24             |
+|--------------------------------------------------------------------------|
+
+__Number in Encounter:__ 4
+
+##### Fluff and Details #####
+
+These guardsmen were off duty and sleeping. They have no treasure on
+them. Otherwise, same as above.
+
+##### XP Table #####
+
+|--------------------------------------------------------------------|
+|Level of Character|Guardsman (CR2)|Total XP Earned|XP to Award      |
+|------------------|---------------|---------------|-----------------|
+|Level 3           |600            |2400           |600              |
+|Level 4           |600            |2400           |600              |
+|Level 7           |350            |1400           |350              |
+|------------------|---------------|---------------|-----------------|
+
+#### Room E: Guard Captain's Quarters ####
+
+<div class="small  box"> <p>As  the door opens,  You are  greeted with
+Shouting. The  Guard Captain is  fully dressed, wide awake,  and ready
+for You. His  Dark as pitch Skin, Fanged Teeth,  Pointed Ears and Snow
+White  hair catch  Your eyes  As he  turns to  face You  and  moves to
+attack.</p> </div>
+
+#### Encounter 4: Guard Captain. ####
+
+##### Stat Tables #####
+
+|--------------------------------------------------------------------------|
+|Guard Captain  (AC 17, HP 61, Melee +6 1d8+2) | (Drow, Fighter L4) CR   5 |
+|------------------------------------------|-------------------------------|
+|*Init* +2 (+2 dex)                        |*AC:* 15 *FF:* 15 *T:* 10      |
+|*HD:* 4, *HP:* 30              |*Str* 17(+3) *Dex* 15(+2) *Con* 14(+2)    |
+|*Speed:* 30ft                  |*Int* 14(+2) *Wis* 6(-2)  *Cha* 10(0)     |
+|*Attack 1:* Rapier +7 1d8+3 (18-20/x2)    | *Feats:* Toughness x 2         |
+|*Attack 2:* Hnd Crossbow +5 1d8|*Intim* +1, *Jump* +4, *Ride* +3, *Swim* +4|
+|*Fort:* +6 *Ref:* +3 *Will:* -1|*Climb* +4, *Craft()* +3, *Hdl Animal* +1 |
+|*Drow Traits* +2 Save v Spell, No Sleep |*BAB:* +4 Grp +7        |
+|*Spell Resistance* 15, *Darkvision* |*Skill Point Bonus:* +1/hd           |
+|*Speed:* 30ft *Space/Reach:* 5 ft. (1 sq) |*Skill Points:* 16
+|*Light Blindness* Abrupt Light Blinds 1 rnd | *Spells:* Dancing Lights, Faerie Fire|
+|--------------------------------------------------------------------------|
+
+__Number in Encounter:__ 1
+
+##### Fluff and Details #####
+
+The Guard Captain Holds the Key to the upper levels, and to the
+tower. He Must be defeated before the story can advance (running is
+not an option here). 
+
+##### XP Table #####
+
+|--------------------------------------------------------------------|
+|Level of Character|Guardsman (CR2)|Total XP Earned|XP to Award      |
+|------------------|---------------|---------------|-----------------|
+|Level 3           |600            |1800           |450              |
+|Level 4           |600            |1800           |450              |
+|Level 7           |350            |1050           |263              |
+|------------------|---------------|---------------|-----------------|
+
+#### Room F: Behind the Grate ####
+
+<div class="small box">
+<p>Opening the Grate, You discover that the Path leads one of two
+staircases: It branches off to the North and to the South. You must hurry to
+the tower, as it is now about quarter to one. Both look equally dark
+and ominous, and both have light shining from around their
+corners. From the one in the north, You can hear talking in some kind
+of language (goblin). From the South, You hear only crashing
+waves. The Choice is Yours.</p>
+</div>
+No Matter which Route they Choose, the other one will contain __Room J__
+at the top. The one they choose, therefore, will have __Room I__.
+
+The South Path Leads to __Room G__. The North, to __Room H_.
+
+
+#### Room G: The Room Of the Cages ####
+
+<div class="small box"> <p>From the Staircase, You can see that this
+room is filled with various size cages, all stacked Haphazardly upon
+one another. Inside, there are a bunch of sleeping humanoid creatures
+of various color: Red, Green, White, Blue. Upon Closer inspection,
+each of these creatures has a brand: Upon the arm of a white colored
+Goblin lying defeated in the cage, there is a large "A" Branding. In
+the Center of the Room, is a large Glowing Green Gem. There is a
+staircase leading up, in the North end of the Building.</p>
+
+</div>
+
+Questioning these creatures leads to no intellegent response: They are
+defeated and resigned to their fates.
+
+Moving the Glowing Green Gem Summons Four Lesser Elementals: Fire,
+Water, Wind, and Earth.
+
+#### Encounter 5: Elemental Guardians ####
+
+##### Stat Tables #####
+
+|--------------------------------------------------------------------------|
+|Elemental  (AC 17, HP 61, Melee +6 1d8+2) | (Elemental, Air) CR   3       |
+|------------------------------------------|-------------------------------|
+|*Init* +9 (+5 dex, +4 Improved Init)      |*AC:* 13 *FF:* 13 *T:* 10      |
+|*HD:* 4, *HP:* 26              |*Str* 12(+1) *Dex* 21(+5) *Con* 14(+2)    |
+|*Speed:* 100ft Fly             |*Int* 4(-3) *Wis* 11(0)  *Cha* 11(0)     |
+|*Attack 1:* Slam +8 1d6+1      | *Feats:* Improved Init, Weapon Finesse, Dodge, Flyby Attack |
+|*Attack 2:* None               |*Intim* +1, *Jump* +4, *Ride* +3, *Swim* +4|
+|*Fort:* +3 *Ref:* +9 *Will:* +1|*Climb* +4, *Craft()* +3, *Hdl Animal* +1 |
+|*Drow Traits* No Poi, Slp, Par, Stun, Crit, or Flank |*BAB:* +4 Grp +7        |
+|*Spell Resistance* 15, *Darkvision* |*Skill Point Bonus:* +1/hd           |
+|*Speed:* 30ft *Space/Reach:* 5 ft. (1 sq) |*Skill Points:* 16
+|--------------------------------------------------------------------------|
+
+__Number in Encounter__: 4, one of each element.
+
+##### Fluff and Details #####
+
+These simply cease to be after 5 rounds, meant to scare off escapees.
+
+
+##### XP Table #####
+
+|--------------------------------------------------------------------|
+|Level of Character|Elemental (CR3)|Total XP Earned|XP to Award      |
+|------------------|---------------|---------------|-----------------|
+|Level 3           |900            |3600           |900              |
+|Level 4           |900            |3600           |900              |
+|Level 7           |525            |2100           |525              |
+|------------------|---------------|---------------|-----------------|
+
+#### Room I: Plague Chests ####
+
+<div class="small box">
+<p>The Top of this tower... has no windows. Instead, there are large
+chests guarded by two statues. A Huge Sign says, "Do Not Touch!"</p>
+
+</div>
+These Chests contain, from left to right, the Three Plague Spirits:
+Pride, Greed, and Sloth. Letting them out allows me to use them in
+future adventures.
+
+#### Room H: The Goblin Warrior Ambush ####
+
+<div class="small box">
+<p>Upon reaching the top of the stairs, You are greeted with four
+small, green, befanged warriors, who ambush You from around the hole
+in the floor.</p>
+</div>
+
+##### Stat Tables #####
+
+|--------------------------------------------------------------------------|
+|Goblin Warrior (AC 15, HP 31, Melee +6 1d8+2)  | (Human, Fighter L2) CR 2|
+|------------------------------------------|-------------------------------|
+|*Init* +2 (+2 dex)                        |*AC:* 15 *FF:* 13 *T:* 12      |
+|*HD:* 5, *HP:* 31              |*Str* 15(+2) *Dex* 15(+2) *Con* 16(+3)    |
+|*Speed:* 30ft                  |*Int* 12(+1) *Wis* 6(-2)  *Cha* 8(-1)     |
+|*Attack 1:* Longsword +6 1d8+2 (19-20/x2) | *Feats:* Toughness x 2        |
+|*Attack 2:* Whip 1d4+2        |*Intim* +1, *Jump* +4, *Ride* +4, *Swim* +4|
+|*Fort:* +9 *Ref:* +3 *Will:* -1|*Climb* +4, *Craft()* +3, *Hdl Animal* +10|
+|*Fighter Feat:* Toughness *Human Feat:* Toughness|*BAB:* +4 Grp +6        |
+|*Advancement:* By Character Class|*Skill Point Bonus:* +1/hd              |
+|*Speed:* 30ft *Space/Reach:* 5 ft. (1 sq) |*Skill Points:* 24             |
+|--------------------------------------------------------------------------|
+
+__Number in Encounter__: 4
+
+##### Fluff and Details #####
+
+These Goblins, simply, are loyalists who figured out the escape
+plan. They are trying to stall You. So long as You beat them, they do
+not succeed.
+
+
+##### XP Table #####
+
+|--------------------------------------------------------------------|
+|Level of Character|Elemental (CR3)|Total XP Earned|XP to Award      |
+|------------------|---------------|---------------|-----------------|
+|Level 3           |600            |2400           |600              |
+|Level 4           |600            |2400           |600              |
+|Level 7           |350            |1400           |350              |
+|------------------|---------------|---------------|-----------------|
+
+#### Room I: The Jump ####
+
+<div class="small box">
+<p>"Having reached the top of the tower, You see a large window. The
+Window overlooks the frozen bay, which lies in wait around 100 ft
+below. There is no ship visible beneath You."</p>
+</div>
+
+When They Jump, Read this:
+
+<div class="small box">
+<p>"You fall, the drop lasting just long enough to realize that You
+have made a great mistake... when all of a sudden, You slow to a crawl
+and land safely on the thin air. Seeing nothing, You briefly wonder
+what is going on before You feel a sharp pain on the back of Your
+head, and everything goes dark."</p>
+
+<p>"You have successfully escaped from the prison. Congratulations."</p>
+</div>
+
+#### XP Table ####
+
+|------------------------------------|
+|Level of Character|XP to Award      |
+|------------------|-----------------|
+|Level 3           |500              |
+|Level 4           |500              |
+|Level 7           |300              |
+|------------------|-----------------|
+
+
+[cc]: http://creativecommons.org/licenses/by-sa/3.0/us/
+[ogl]: http://www.wizards.com/d20/files/OGLv1.0a.rtf

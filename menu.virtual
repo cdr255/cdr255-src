@@ -1,0 +1,5 @@
+\--- !omap
+- /blog/:
+    title: Blog
+    url: http://cdr255.blogspot.com
+    in_menu: true

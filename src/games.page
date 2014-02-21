@@ -1,0 +1,41 @@
+---
+title: Games
+in_menu: true
+
+---
+## Games ##
+
+Games are awesome. There is nothing quite like gathering a bunch of
+people around a table for a good night of gaming. Some of my fondest
+memories have been centered around games, be they board, card, table
+top, or pen and paper. It's something special, to be sure.
+
+Inspired by these memories, I decided to make my own foray into the
+realm of game design. Here, I have the games I am currently
+developing. If You try these out, be sure to let me know what You
+think in an [Email][email].
+
+<hr />
+
+<table class="center">
+  <caption>Alpha Games</caption>
+  <tr>
+    <th>#</th>
+    <th>Title</th>
+    <th>Type</th>
+    <th>Players</th>
+    <th>Time</th>
+    <th>Download</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Elemental Warfare</td>
+    <td>Board Game (Strategy Board Game)</td>
+    <td>20-40 minutes</td>
+    <td>2-4 players</td>
+    <td><a href="content/crg001.elemental-warfare-alpha.pdf">PDF</a></td>
+  </tr>
+</table>
+
+
+[email]: mailto:cdr255@gmail.com

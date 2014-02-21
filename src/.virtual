@@ -1,0 +1,5 @@
+Blog:
+  in_menu: true
+  sort_info: 25
+  dest_path: http://cdr255.blogspot.com
+

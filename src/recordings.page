@@ -1,0 +1,26 @@
+---
+title: Music:Recordings
+in_menu: false
+
+---
+## Recordings ##
+
+<table class="center">
+  <caption>Harp Cover Arragements</caption>
+  <tr>
+    <th>#</th>
+    <th>Title</th>
+    <th>Originally</th>
+    <th>Download</th>
+    <th>Youtube</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td><a href="http://www.last.fm/music/fun./_/The+Gambler">The Gambler</a></td>
+    <td>by <a href="http://www.ournameisfun.com/">fun.</a></td>
+    <td><a href="content/harpcovers/01.the-gambler-by-fun.mp3">mp3</a>,<a href="content/harpcovers/01.the-gambler-by-fun.mov">mov</a></td>
+    <td><a href="http://www.youtube.com/watch?v=9tlMPDhmKvQ" title="Like, Comment, Subscribe!">Youtube</a></td>
+  </tr>
+</table>
+
+[cc]: http://creativecommons.org/licenses/by-sa/3.0/us/
